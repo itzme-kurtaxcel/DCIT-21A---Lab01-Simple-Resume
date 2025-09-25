@@ -15,6 +15,6 @@
 
 <!-- You can also view my previous project -->
 
-https://github.com/itzme-kurtaxcel/Project-TLNTK.
+https://github.com/itzme-kurtaxcel/Project-TLNTK. -->
 
 <!-- May the Lord bless us. -->
