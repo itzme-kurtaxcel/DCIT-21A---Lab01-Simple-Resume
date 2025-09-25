@@ -28,6 +28,7 @@ Github icons created by Pixel perfect - Flaticon
 
 <!-- You can also view my previous project -->
 
-https://github.com/itzme-kurtaxcel/Project-TLNTK. -->
+https://itzme-kurtaxcel.github.io/Project-TLNTK./ -->
 
 <!-- May the Lord bless us. -->
+
