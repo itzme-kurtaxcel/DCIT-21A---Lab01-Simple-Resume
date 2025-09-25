@@ -4,6 +4,15 @@
 
 <!-- This resume was created as part of the requirements for the subject DCIT 21A (Laboratory Activity 1) -->
 
+<!-- Icons from 
+
+Facebook icons created by Bogdan Rosu - Flaticon
+Instagram logo icons created by Freepik - Flaticon
+Gmail icons created by rukanicon - Flaticon
+Linkedin icons created by Freepik - Flaticon
+Github icons created by Pixel perfect - Flaticon
+
+-->
 
 <!-- NOTE: -->
 
@@ -12,6 +21,10 @@
 <!-- END OF NOTE -->
 
 <!-- This resume was created by Kurt Axcel N. Peñano | BSCS 1 - 2 (Logikos Dos) -->
+
+<!--  This is for academic purposes only. -->
+
+
 
 <!-- You can also view my previous project -->
 
