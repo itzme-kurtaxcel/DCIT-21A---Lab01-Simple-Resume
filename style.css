@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* --- Profile Section --- */
+.profile {
+    text-align: center; 
+    /* This centers all inline content inside */
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.profile h1 {
+    font-size: 2.5em;
+    font-family: Proxima Nova, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.profile h3 {
+    font-size: 1.2em;
+    color: #666;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.profile h4 {
+    font-size: 1.1em;
+    color: #666;
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+/* Social Links Styling */
+.social-links {
+    margin-top: 20px;
+}
+
+.social-icon {
+    height: 25px;
+    width: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.soclink {
+    color: #666;
+    text-decoration: none;
+    vertical-align: middle;
+    margin-right: 20px; /* Space between links */
+}
+
+.soclink:hover {
+    text-decoration: underline;
+}
+
+/* --- General Section Styling --- */
+.section-title {
+    font-size: 1.8em;
+    font-family: Proxima Nova, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.separator {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    width: 50%;
+    margin: 40px auto; /* Centers the separator */
+}
+
+/* --- About Me Section --- */
+.description-me {
+    font-size: 1.2em;
+    color: #666;
+    width: 70%;
+    margin: 0 auto; /* Centers the paragraph block */
+    text-align: center;
+    line-height: 1.6;
+}
+
+/* --- Education & Credentials --- */
+.education, .credentials {
+    text-align: center;
+}
+
+.education-entry, .credential-entry {
+    margin-bottom: 25px; /* Adds space between each entry */
+}
+
+.year {
+    font-size: 1.2em;
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.school, .credential-name {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.credential-link {
+    font-size: 1.1em;
+    color: #666;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.credential-link:hover {
+    text-decoration: underline;
+}
+
+
+/* --- Skills Section --- */
+.skills-list {
+    font-size: 1.2em;
+    color: #666;
+    width: 60%;
+    margin: 0 auto; /* Centers the list block */
+    line-height: 1.6;
+    /* This ensures the bullet points are inside the centered block */
+    list-style-position: inside;
+    padding-left: 0;
+    text-align: center; 
+}
+
+.footer {
+    font-size: 1.1em;
+    color: #666;
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
