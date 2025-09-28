@@ -34,11 +34,12 @@ Github icons created by Pixel perfect - Flaticon
 
 <!-- You can also view my previous project -->
 
-<!-- https://itzme-kurtaxcel.github.io/Project-TLNTK./ -->
-<!-- https://itzme-kurtaxcel.github.io/DCIT-21A---Lab02-Simple-Form/ -->
+<!-- https://kurtaxcel.github.io/Project-TLNTK./ -->
+<!-- https://kurtaxcel.github.io/DCIT-21A---Lab02-Simple-Form/ -->
 
 
 <!-- May the Lord bless us. -->
+
 
 
 
